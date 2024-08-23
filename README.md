@@ -3,4 +3,6 @@ I designed this This 3D printed case for the [chocV keyboard](https://github.com
 
 You'll probably have to experiment with 4/5mm standoffs to see which one works best for you to mount the PCB to the case, and the MCU cover to the PCB.
 
+![Image 1](/pictures/chocV 1.jpg)
+
 For any other questions, please contact me via Discord@ sato40
