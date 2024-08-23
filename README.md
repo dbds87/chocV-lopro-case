@@ -5,4 +5,8 @@ You'll probably have to experiment with 4/5mm standoffs to see which one works b
 
 ![Image 1](/pictures/chocV1.jpg)
 
+![Image 1](/pictures/chocV2.jpg)
+
+![Image 1](/pictures/chocV3.jpg)
+
 For any other questions, please contact me via Discord@ sato40
